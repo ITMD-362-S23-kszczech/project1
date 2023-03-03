@@ -27,16 +27,19 @@
 body {
   text-align:center;
   background-color: var(--color-primary-3);
+  font-family: Arial,Helvetica Neue,Helvetica,sans-serif
 }
 
 .title {
   font-size:2rem;
   margin-bottom:1rem;
   color: var(--color-primary-4);
+  font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
 }
 .big {
   font-size:3.5rem;
   color: var(--color-primary-3);
+  font-family: Georgia,Times,Times New Roman,serif;
 }
 .subtitle {
   font-size: 1.5rem;
