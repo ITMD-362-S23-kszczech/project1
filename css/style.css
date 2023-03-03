@@ -91,3 +91,29 @@ main{
     font-size:1.25rem;
   }
 }
+
+/* for desktops */
+@media screen and (min-width:1000px) {
+  .big {
+    font-size:8rem;
+  }
+  .title {
+    font-size:4rem;
+  }
+  .subtitle {
+    font-size:2rem;
+  }
+  .text, label {
+    font-size:1.5rem;
+  }
+  input {
+    font-size:1.5rem;
+    padding:0.2rem;
+  }
+  .disclaimer {
+    font-size:1rem;
+  }
+  main {
+    width:70%;
+  }
+}
