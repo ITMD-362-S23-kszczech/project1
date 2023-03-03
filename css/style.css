@@ -53,6 +53,10 @@ body {
   font-size:0.5rem;
 }
 
+.zone {
+  margin:0.2rem;
+}
+
 input {
   margin:0.2rem;
 }
