@@ -19,26 +19,32 @@
 
 body {
   text-align:center;
+  background-color: var(--color-primary-3);
 }
 
 .title {
   font-size:2rem;
   margin-bottom:1rem;
+  color: var(--color-primary-4);
 }
 .big {
   font-size:3.5rem;
+  color: var(--color-primary-3);
 }
 .subtitle {
   font-size: 1.5rem;
   margin-bottom:0.5rem;
+  color: var(--color-primary-3);
 }
 .text, label {
   font-size:1.25rem;
   line-height:1.5rem;
   margin-bottom:0.5rem;
+  color: var(--color-primary-4);
 }
 .disclaimer {
   font-size:0.5rem;
+  color: var(--color-primary-2);
 }
 
 .zone {
@@ -47,12 +53,17 @@ body {
 
 input {
   margin:0.2rem;
+  background-color: var(--color-primary-3);
+  color: var(--color-primary-1);
 }
 
 main{
   width:90%;
   margin:auto;
   padding:5%;
+  background-color: var(--color-primary-1);
+  margin-bottom:1em;
+  margin-top:2em;
 }
 
 
