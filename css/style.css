@@ -69,6 +69,7 @@ input {
   margin:0.2rem;
   background-color: var(--color-primary-3);
   color: var(--color-primary-1);
+  width:100%;
 }
 
 main{
